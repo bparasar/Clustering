@@ -1,2 +1,2 @@
 # Clustering
-Market Segmentation
+Market Segmentation using Clustering Algorithms
